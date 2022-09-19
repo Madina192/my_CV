@@ -1,0 +1,31 @@
+.main {
+    padding-right: 30px;
+    padding-top: 1px;
+    width: 750px;
+    height: 500px;
+    border-radius: 5%;
+    margin: 0 auto;
+    background-color: rgb(220, 249, 249);
+}
+
+.h1 {
+    color: rgb(39, 121, 121);
+    text-align: center;
+}
+
+.main-box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.img {
+    width: 300px;
+    height: 300px;
+    border-radius: 5%;
+}
+
+.li {
+    list-style-type: none;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
